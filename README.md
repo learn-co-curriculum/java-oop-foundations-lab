@@ -1,4 +1,4 @@
-# OOP Foundations Lab
+# OOP Fundamentals Lab
 
 ## Learning Goals
 
